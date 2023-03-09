@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DAC12G</name>
+	<gx:CascadingStyle kml:id="__managed_style_2D86F4FA1B27D6F8F07C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_171052A2CF27D6F8F07C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2068DD4DD827D6F6EB72">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F5DEE97C027D6F8F07C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_171052A2CF27D6F8F07C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D86F4FA1B27D6F8F07C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_157BB6238327D6F6EB72">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C8F805E3727D6F6EB72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_157BB6238327D6F6EB72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2068DD4DD827D6F6EB72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05B0300EE227D6F6578E">
+		<name>Sara Ocidental</name>
+		<gx:mid>/m/082qk</gx:mid>
+		<gx:fid>0xc22482523302153:0xb7a6f81873dfd75a</gx:fid>
+		<LookAt>
+			<longitude>-13.06241255</longitude>
+			<latitude>24.07469995</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1358390.909464064</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C8F805E3727D6F6EB72</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-12.885834,24.215527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00DEE8B0A427D6F78756">
+		<name>Norte do Chipre</name>
+		<gx:mid>/m/01nx28</gx:mid>
+		<gx:fid>0x14de39d1bb42e217:0x744f55bc957b6540</gx:fid>
+		<LookAt>
+			<longitude>33.6568676</longitude>
+			<latitude>35.3580935</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>303346.1013759946</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F5DEE97C027D6F8F07C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>33.6577243,35.2480359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0860ABC6CD27D6F8F07A">
+		<name>Transnístria</name>
+		<gx:mid>/m/0p3hlqd</gx:mid>
+		<gx:fid>0x40c951a8b54bb0cf:0x77b4bd5d6cd0ce46</gx:fid>
+		<LookAt>
+			<longitude>29.24072194999999</longitude>
+			<latitude>47.3654389</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>503861.2488762532</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F5DEE97C027D6F8F07C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>29.4638054,47.21529719999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CEEA6F48627D6F98719">
+		<name>Somalilândia</name>
+		<gx:mid>/m/0dkly</gx:mid>
+		<gx:fid>0x3d881fa3c84fa679:0xd32630a95496ddbf</gx:fid>
+		<LookAt>
+			<longitude>45.80062864999999</longitude>
+			<latitude>9.72506735</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1466428.544375717</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F5DEE97C027D6F8F07C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>46.82528380000001,9.411743399999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
